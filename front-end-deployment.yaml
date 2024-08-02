@@ -13,7 +13,7 @@ spec:
         app: testing
     spec:
       containers:
-      - name: front-end
+      - name: testing
         image: neelpatel5270/testing:latest
         ports:
         - containerPort: 80
